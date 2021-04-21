@@ -4,3 +4,5 @@ We are motivated to understand the challenges of applying generalized natural la
 
 ![alt text](similar.png =20x)
 ![alt text](response.png =10x)
+<img src="similar.png" width="40%">
+<img src="response.png" width="20%">
