@@ -1,4 +1,4 @@
-# Summary of projects
+## Summary of projects
 ### NLP Generalization
 ### NLP Sematic Similarity using Attention and Neural Models
 ### Spark/BigData Pipeline for Click Thorugh Rate Prediction
