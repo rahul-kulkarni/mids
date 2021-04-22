@@ -1,7 +1,7 @@
-## Summary of projects
-### NLP Generalization
-### NLP Sematic Similarity using Attention and Neural Models
-### Spark/BigData Pipeline for Click Thorugh Rate Prediction
-### Logistic Regression for Home Price Prediction
-### Edge Image Detection on NVIDIA Jetson
-### Linear Regression for Crime Analysis
+### Summary of MIDS projects
+#### Understand challenges of Generalization in Natural Language Models
+#### Apply NLP Semantic Similarity using Neural Models to Programming Q&A
+#### Click Through Rate Prediction on a Spark Big Data pipeline
+#### Home Price Prediction
+#### Edge Image Detection on NVIDIA Jetson
+#### Crime Rate Analysis using Classic Linear Models
